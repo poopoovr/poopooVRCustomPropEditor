@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "HkY+eXVBseg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUSN\\Downloads\\sadadassadaskura\\GorillaTagMod\\GorillaTagMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\asmresolver\\5.5.1\\asmresolver.5.5.1.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\asmresolver.dotnet\\5.5.1\\asmresolver.dotnet.5.5.1.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\asmresolver.pe\\5.5.1\\asmresolver.pe.5.5.1.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\asmresolver.pe.file\\5.5.1\\asmresolver.pe.file.5.5.1.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\bepinex.assemblypublicizer\\0.4.3\\bepinex.assemblypublicizer.0.4.3.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.text.json\\6.0.8\\system.text.json.6.0.8.nupkg.sha512",
+    "C:\\Users\\ASUSN\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6232dd7c230e547fa1395253dbbc3e41\\nuget\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

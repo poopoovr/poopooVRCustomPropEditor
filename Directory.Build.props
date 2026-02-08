@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <!-- Gorilla Tag assembly paths -->
+    <GameAssemblyPath>c:\Users\ASUSN\Downloads\sadadassadaskura\Managed</GameAssemblyPath>
+    <BepInExAssemblyPath>c:\Users\ASUSN\Downloads\sadadassadaskura\core</BepInExAssemblyPath>
+  </PropertyGroup>
+</Project>
